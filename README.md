@@ -44,8 +44,8 @@ Comfortable:
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Jay-DVT" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/diego-villanueva-820993242" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/diego-villanueva-820993242" target="_blank"><img alt="Github" src="./img/linkedin.svg" /></a> 
+  <a href="https://djay-dvt.netlify.app/" target="_blank"><img alt="LinkedIn" src="./img/globe.svg" /></a> 
 </p>
 
 ![header](https://capsule-render.vercel.app/api?&type=waving&&&color=100:CCFF00,0:00D1FF&section=footer&height=150)
