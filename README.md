@@ -1,5 +1,11 @@
 <h1>Welcome</h1>
-<p><br>I'm Diego Villanueva</br>An aspiring Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="15"/> currently studying in college</p>
+<p><br>I'm Diego Villanueva:shipit:</br>An aspiring <b>Fullstack</b> developer with a side-interest in cybersecurity from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="15"/><b> Chihuahua, Mexico</b> currently studying in <b>Tec de Monterrey </b><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" width="15"/>
+<br>I know: 
+  <img src="https://cdn-icons-png.flaticon.com/512/299/299820.png" width="15"/><span> </span>Native <span>  </span>
+  <img src="https://cdn-icons-png.flaticon.com/512/299/299688.png" width="15"/><span> </span>Fluent<span>  </span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5988/5988791.png" width="15"/><span> </span>
+  <img src="https://cdn-icons-png.flaticon.com/512/299/299885.png" width="15"/><span> </span>Elementary</br></p>
+  
 <h2>I'm currently working on:</h2>
 <img align="right" src="https://media.giphy.com/media/6dUhLqzoQYqXK/giphy.gif" />
 <ul>
@@ -41,6 +47,13 @@ Comfortable:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ------------
+
+<details>
+<summary>:moyai: About me</summary>
+  <ul style="list-style-type: none;">
+    <li>:cocktail:I'm heavily invested into mixology as a hobby</li>
+  </ul>
+</details>
 
 <h3>Where to find me</h3>
 <p>
