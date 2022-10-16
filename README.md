@@ -47,11 +47,16 @@ Comfortable:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ------------
-
 <details>
 <summary>:moyai: About me</summary>
   <ul style="list-style-type: none;">
-    <li>:cocktail:I'm heavily invested into mixology as a hobby</li>
+    <li>:cocktail: I'm heavily invested into mixology, creating mostly Vodka and Rum cocktails</li>
+    <li>:spaghetti: I enjoy cooking</li>
+    <li>:headphones: Last year on Spotify I listened for <b>116,351</b> minutes, with Rock being my favorite genre :guitar:</li>
+    <li>:video_game: FPS enjoyer, Destiny and Titanfall are the best</li>
+    <li>:milky_way: I have an obsession with space</li>
+    <li>:car: I watch motoracing</li>
+    <li>I have to deal with 3 :wolf: and 3:cat:furballs</li>
   </ul>
 </details>
 
