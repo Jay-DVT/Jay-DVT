@@ -1,5 +1,5 @@
 <h1>Welcome</h1>
-<p><br>I'm Diego Villanueva:shipit:</br>An aspiring <b>Fullstack</b> developer with a side-interest in cybersecurity from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="15"/><b> Chihuahua, Mexico</b> currently studying in <b>Tec de Monterrey </b><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" width="15"/>
+<p><br>I'm Diego Villanueva:shipit:</br>A <b>Fullstack</b> developer with a big interest in ML and AI, from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="15"/><b> Chihuahua, Mexico</b> currently studying in <b>Tec de Monterrey </b><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" width="15"/>
 <br>I know: 
   <img src="https://cdn-icons-png.flaticon.com/512/299/299820.png" width="15"/><span> </span>Native <span>  </span>
   <img src="https://cdn-icons-png.flaticon.com/512/299/299688.png" width="15"/><span> </span>Fluent<span>  </span>
